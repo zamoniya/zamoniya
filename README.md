@@ -8,11 +8,11 @@
 
 • git clone https://github.com/zamoniya/zamoniya.git
 
-• cd SocialPhish
+• cd zamoniya
 
-• chmod +x socialphish.sh
+• chmod +x fish.sh
 
-• ./socialphish.sh
+• ./fish.sh
 
 
 
