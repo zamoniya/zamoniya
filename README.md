@@ -1,3 +1,22 @@
+⭕️ INSTALL WITH TERMUX
+
+• apt update -y
+
+• apt upgrade -y
+
+• pkg install git -y
+
+• git clone https://github.com/zamoniya/SocialPhish.git
+
+• cd SocialPhish
+
+• chmod +x socialphish.sh
+
+• ./socialphish.sh
+
+
+
+-------------------------------------------------------------------------------------------------------
 Telegram:@hackereniac
 
 - 👋 Hi, I’m @zamoniya
@@ -5,7 +24,7 @@ Telegram:@hackereniac
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+-------------------------------------------------------------------------------------------------------
 
 
 <!---
