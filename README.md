@@ -6,7 +6,7 @@
 
 • pkg install git -y
 
-• git clone https://github.com/zamoniya/SocialPhish.git
+• git clone https://github.com/zamoniya/zamoniya.git
 
 • cd SocialPhish
 
